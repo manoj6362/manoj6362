@@ -1,88 +1,205 @@
-<h1 align="center">Hi, I'm Manoj Kumar TN 👋</h1>
-<h3 align="center">AI / Agentic AI Engineer — Generative AI · LLM Workflows · Automation</h3>
+<h1 align="center">Hi 👋, I'm Manoj Kumar TN</h1>
+<h3 align="center">🤖 Generative AI Engineer | Agentic AI Systems | AI Automation Specialist</h3>
 
 <p align="center">
-  <a href="https://myresuuuu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square"></a>
-  <a href="https://linkedin.com/in/manoj-kumar-tn-b9b1252a3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:manojkumarmanu319@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Generative+AI+%7C+Agentic+AI+Systems;LLM+Workflows+%7C+RAG+Pipelines+%7C+Prompt+Engineering;Full+Stack+AI+Application+Developer;Building+Autonomous+Multi-Agent+Architectures" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:manojkumarmanu319@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/manoj-kumar-tn-b9b1252a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/manoj6362"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manoj6362&label=Profile%20Views&color=8A2BE2&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-8A2BE2?style=flat&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-AIML%20%7C%20GenAI%20%7C%20AI%20Automation-success?style=flat&logo=target&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 About Me
+### ⚡ About Me
 
-I'm an **AI Engineer** building production-grade AI systems — from autonomous agent workflows to generative decision-support pipelines. My work sits at the intersection of **Agentic AI**, **LLM integration**, and **full-stack engineering**, turning research-shaped ideas into shipped, scalable applications.
+```yaml
+name: Manoj Kumar TN
+role: "Generative AI & Agentic AI Systems Engineer"
+education: "B.Tech in Information Science & Engineering"
+college: "Rajarajeshwari College of Engineering, VTU"
+cgpa: 8.89
+graduation: "May 2026"
+current_focus: "LLM-powered pipelines, RAG systems & autonomous multi-agent architectures"
+targeting: "AIML Engineering | AI Automation | Generative AI Development @ MNCs"
+published_research: "AGROPRO – AI-Powered Smart Agricultural Advisory Platform, IJARIIE 2025"
+fun_fact: "I teach machines to think like farmers, drivers, and decision-makers 🌾🚦🤖"
+```
 
-- 🔭 Currently exploring **Agentic AI** and **multi-agent architectures**
-- 🌱 B.Tech in Information Science & Engineering, VTU — **CGPA 8.89/10**
-- 💼 Interned as an **Agentic AI Intern** at Zetheta Algorithms, building LLM workflows, RAG pipelines, and vector-DB-powered automation
-- 📱 Also interned at **MindMatrix**, integrating Generative AI into Android apps (Kotlin, Jetpack Compose)
-- 📄 Published researcher — *AGROPRO: AI-Powered Smart Agricultural Advisory Platform*, IJARIIE Vol. 11, Issue 6, 2025
-- 🏆 Oracle OCI 2025 Certified Generative AI Professional
-- 📍 Based in Bengaluru, India
-- 💬 Open to full-time roles in **AI/ML Engineering, Agentic AI, and AI Automation**
+---
+
+### 🧠 Core Competencies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI%20Systems-6A0DAD?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-4B0082?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-9370DB?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-483D8B?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MLOps%20%26%20DevOps-7B68EE?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20AI%20Apps-5D3FD3?style=for-the-badge&logo=react&logoColor=white"/>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**AI & GenAI**
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-black?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-black?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-black?style=flat-square)
-![LLM Workflows](https://img.shields.io/badge/-LLM%20Workflows-black?style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,js,java,bash,react,nodejs,express,flask,django,html,css,bootstrap,git,github,docker,linux&theme=light&perline=10" />
+</p>
 
-**Programming**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-**Frontend / Backend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+**🤖 AI / GenAI / Agentic AI**
+- Generative AI, Agentic AI, LLM Workflows
+- Prompt Engineering, RAG, Multi-Agent Systems
+- Scikit-learn, PyTorch, LightGBM, XGBoost, OpenCV
 
-**Cloud & DevOps**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OCI](https://img.shields.io/badge/-OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
+**💻 Programming Languages**
+- Python, JavaScript, Java, C, Bash
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 Web & Full Stack**
+- React.js, Node.js, Express.js
+- Flask, Django, MERN / MEAN Stack
+- HTML, CSS, Bootstrap
+
+**☁️ DevOps & Cloud / Data**
+- Git, GitHub, Docker, CI/CD Basics, Linux, OCI
+- Power BI, Excel, Data Visualization, Model Evaluation
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Digital Agro-Farma Mapping & Farmer Support Platform](https://github.com/manoj6362)** — AI-driven mapping platform for farmers/agro-MSMEs using Agentic AI recommendation logic and GenAI decision support. *(Python, Flask, React, Agentic AI)*
-- **[AI Traffic Real-Time Monitoring](https://github.com/manoj6362/AI-traffic-real-time-monitoring-)** — Computer-vision system for traffic density classification and congestion detection. *(Python, OpenCV, ML)*
-- **Agro AI Crop Prediction System** — ML pipeline for crop yield prediction; published as AGROPRO in IJARIIE 2025. *(Python, Scikit-learn, Flask, React)*
-- **Event Management System** — Full-stack MERN app with JWT auth and complete CRUD. *(Node.js, Express, MongoDB, Bootstrap)*
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-📎 Full write-ups and live links: **[myresuuuu.vercel.app](https://myresuuuu.vercel.app/)**
+#### 🌾 Digital Agro-Farma Mapping & Farmer Support Platform
+*Aug 2025 – Nov 2025*
+
+- AI-driven digital mapping platform for farmers & agro-MSMEs using **Agentic AI recommendation logic**
+- Generative AI-powered decision support for crop & infrastructure advisory
+- Proposed for **MSME Hackathon 4.0 & 5.0**
+
+`Python` `Flask` `React` `Agentic AI` `ML APIs`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚦 Advanced AI Traffic Management System
+*Aug 2024 – Dec 2024*
+
+- AI system to classify traffic density & detect congestion from video/sensor data
+- Automated decision pipeline for intelligent signal control with CCTV integration roadmap
+
+`Python` `OpenCV` `Machine Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌱 Agro AI Crop Prediction System
+*Aug 2023 – Nov 2024*
+
+- ML models for crop yield prediction using weather & soil parameters
+- Full preprocessing & evaluation pipelines
+- 📄 Published as **"AGROPRO"** in IJARIIE, Vol. 11, Issue 6, 2025
+
+`Python` `Scikit-learn` `Flask` `React`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎟️ Event Management System (Full Stack)
+*Sep 2024 – Jan 2025*
+
+- Full-stack **MERN** web platform with JWT authentication
+- CRUD operations & responsive UI
+
+`Node.js` `Express.js` `MongoDB` `Bootstrap`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📜 Research & Certifications
+### 🎓 Education
 
-- 📄 *AGROPRO — AI-Powered Smart Agricultural Advisory Platform*, IJARIIE, Vol. 11, Issue 6, 2025
-- 🎓 Oracle OCI 2025 — Certified Generative AI Professional
-- 🎓 J.P. Morgan Virtual Internship — Software Engineering
-- 🎓 Deloitte Virtual Internship — Cybersecurity
-- 🎓 Tata GenAI-Powered Data Analysis Program
-- 🏅 MSME Hackathon 4.0 & 5.0 — Finalist
+| Degree | Institution | CGPA | Duration |
+|---|---|---|---|
+| B.Tech — Information Science & Engineering | Rajarajeshwari College of Engineering, VTU | **8.89 / 10.0** | Aug 2018 – May 2026 |
+
+---
+
+### 📜 Certifications & Virtual Internships
+
+- ☁️ Oracle Cloud Infrastructure 2025 — **Certified Generative AI Professional**
+- 💼 J.P. Morgan Virtual Internship — Software Engineering
+- 🔐 Deloitte Virtual Internship — Cybersecurity
+- 📊 Gen AI Powered Data Analysis — Tata Group
+- 📈 Power BI for Data Analytics — College Certified
+
+---
+
+### 🏆 Achievements & Research
+
+- 🥇 **Finalist** — MSME Hackathon 4.0 & 5.0, building AI-driven & MSME-centric solutions
+- 📄 **Published Research:** *"AGROPRO – AI-Powered Smart Agricultural Advisory Platform"*, IJARIIE, ISSN(O), Vol. 11, Issue 6, 2025
+- 🧬 Actively developing next-gen **Agentic AI systems** & advanced AI automation workflows
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoj6362&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj6362&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj6362&layout=compact&theme=radical&hide_border=true" width="50%" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-<p align="left">
-  📧 manojkumarmanu319@gmail.com &nbsp;|&nbsp;
-  📱 +91-9844857255 &nbsp;|&nbsp;
-  🌐 <a href="https://myresuuuu.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
-  💼 <a href="https://linkedin.com/in/manoj-kumar-tn-b9b1252a3">LinkedIn</a>
+<p align="center">
+  <a href="mailto:manojkumarmanu319@gmail.com"><img src="https://img.shields.io/badge/-manojkumarmanu319@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a><br>
+  <a href="https://www.linkedin.com/in/manoj-kumar-tn-b9b1252a3"><img src="https://img.shields.io/badge/-manoj--kumar--tn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  <a href="https://github.com/manoj6362"><img src="https://img.shields.io/badge/-manoj6362-181717?style=flat&logo=github&logoColor=white"></a>
+  &nbsp;
+  📞 +91-9844857255
 </p>
 
-<p align="center"><i>Open to full-time roles in AI/ML Engineering, Agentic AI, and AI Automation 🚀</i></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
+
+<p align="center"><i>⚡ "Building intelligent systems that learn, decide, and act autonomously." ⚡</i></p>
